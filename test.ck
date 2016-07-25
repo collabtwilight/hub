@@ -5,3 +5,4 @@ SinOsc myOsc => dac;
 
 1::second => now;
 
+//adc test
